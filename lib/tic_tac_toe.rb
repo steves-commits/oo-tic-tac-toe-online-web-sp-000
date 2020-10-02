@@ -43,7 +43,7 @@ end
   end
   
   def turn_count
-    
+    turn 
   
       
   
