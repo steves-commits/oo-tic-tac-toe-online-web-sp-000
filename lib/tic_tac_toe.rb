@@ -57,7 +57,8 @@ end
     user_input = gets.chomp 
     index = input_to_index(user_input)
     if valid_move?(index)
-      player_token
+      player_token = current_player
+      
   
       
   
