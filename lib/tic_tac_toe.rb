@@ -61,7 +61,10 @@ end
       move(index, player_token)
       display_board
     else
-      
+      turn 
+    end
+  end
+  
   
       
   
