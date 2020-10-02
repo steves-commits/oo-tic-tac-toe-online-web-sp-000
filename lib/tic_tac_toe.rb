@@ -35,7 +35,7 @@ end
   end
   
   def position_taken?(index)
-    !(@board[index].nil? || 
+    !(@board[index].nil? || @board[index]
       move
     else 
       
