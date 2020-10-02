@@ -75,7 +75,7 @@ end
     return player
   end
   
-  
+  def won
       
   
   
