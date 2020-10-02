@@ -39,12 +39,7 @@ end
   end
   
   def valid_move?(index)
-    if @board[index] == " "
-      return TRUE
-    else
-      return FALSE
-    end
-  end
+    index.between? 
   
       
   
