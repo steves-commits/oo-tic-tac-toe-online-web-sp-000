@@ -77,7 +77,7 @@ end
   
   def won?
     WIN_COMBINATIONS.each {|win_combo|
-    index
+    index_0
       
   
   
