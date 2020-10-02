@@ -35,7 +35,7 @@ end
   end
   
   def position_taken?(index)
-    if @board = nil 
+    @board[]
       move
     else 
       
