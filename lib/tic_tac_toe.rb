@@ -34,6 +34,12 @@ end
     @board[index] = current_player
   end
   
+  def position_taken(index)
+    if @board = nil 
+      move
+    else 
+      
+  
   
 end  
 
