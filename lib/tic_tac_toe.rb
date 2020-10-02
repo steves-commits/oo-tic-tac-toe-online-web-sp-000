@@ -95,6 +95,7 @@ end
 end 
   
   def full? 
+    @board.all?
   
 end  
 
