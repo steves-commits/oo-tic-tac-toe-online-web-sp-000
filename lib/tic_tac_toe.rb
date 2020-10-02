@@ -53,7 +53,7 @@ end
   end
   
   def turn 
-    puts ""
+    puts "Please choose a number 1-9:"
   
       
   
