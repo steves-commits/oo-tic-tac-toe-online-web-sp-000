@@ -44,7 +44,7 @@ end
   
   def turn_count
     turn = 0 
-    @board
+    @board.each do |
   
       
   
