@@ -52,7 +52,8 @@ end
     return turn 
   end
   
-  
+  def turn 
+    
   
       
   
