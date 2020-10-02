@@ -95,7 +95,7 @@ end
 end 
   
   def full? 
-    @board.all? {|index|
+    @board.all? {|index| index 
   
 end  
 
