@@ -66,6 +66,8 @@ end
   end
   
   def current_player
+    num_turns = turn_count
+    
   
       
   
