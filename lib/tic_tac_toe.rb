@@ -72,6 +72,7 @@ end
     else 
       player = "O"
     end
+    return player
   end
   
   
