@@ -54,7 +54,8 @@ end
   
   def turn 
     puts "Please choose a number 1-9:"
-    user_input 
+    user_input = gets.chomp 
+    
   
       
   
