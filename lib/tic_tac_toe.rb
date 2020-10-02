@@ -43,7 +43,8 @@ end
   end
   
   def turn_count
-    turn 
+    turn = 0 
+    @board
   
       
   
