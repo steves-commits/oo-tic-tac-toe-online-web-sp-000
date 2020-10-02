@@ -38,6 +38,13 @@ end
     !(@board[index].nil? || @board[index] == " ")
   end
   
+  def valid_move?(index)
+    if @board[index] == " "
+      return TRUE
+    else
+      return FALSE
+    end
+  end
   
       
   
