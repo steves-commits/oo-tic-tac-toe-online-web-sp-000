@@ -75,7 +75,8 @@ end
     return player
   end
   
-  def won
+  def won?
+    WIN_COMBINATIONS.each do 
       
   
   
