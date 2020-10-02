@@ -94,7 +94,7 @@ end
   return false
 end 
   
-  def full 
+  def full? 
   
 end  
 
